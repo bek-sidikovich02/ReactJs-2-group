@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>ishni bosilar!</h1>
+      <h1>ishni bosilar! Bosyapiz</h1>
     </div>
   );
 }
