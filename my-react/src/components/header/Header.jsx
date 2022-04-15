@@ -3,7 +3,7 @@ import "./header.css"
 
 const Header = () => {
   return (
-    <div className='header'>Header ni hosil qildim</div>
+    <div className='header'>Header ni hosil qildim|| Aldashyapti</div>
   )
 }
 
